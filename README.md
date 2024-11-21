@@ -1,4 +1,4 @@
-# Keylogger Program (Task
+# Keylogger Program 
 
 ## Project Overview
 This is a basic **Keylogger** program developed for educational purposes as part of an internship project. The program records and logs keystrokes pressed by the user and saves them into a file for review.
